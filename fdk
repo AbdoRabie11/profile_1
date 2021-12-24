@@ -1,0 +1,21 @@
+<header id="header">
+    <div class="contaniner">
+        <div class="maincard">
+            <img class="rounded-circle" src="profile.jpg" alt="">
+            <h1>AbdulRahman Maher
+                <span>
+                    web developer
+                </span>
+                
+            </h1>
+
+   
+           
+            
+            <p>Lorem ipsum dolor sit amet consectetur 
+                isicing elit. Dolorum quia ducimus, aliquid, ut debitis, expedita natus odio hic animi maxime quae ipsum laborum reprehenderit consequatur accusamus.
+                 Consequuntur ullam consequatur maiores.</p>
+             
+        </div>
+    </div>
+</header>
